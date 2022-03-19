@@ -4,8 +4,10 @@
     "\\src",
     "\\src\\app",
     "\\src\\app\\product-description",
-    "\\src\\app\\product-page"
+    "\\src\\app\\product-page",
+    "\\src\\assets",
+    "\\src\\spec\\part3"
   ],
-  "SelectedNode": "\\src\\app\\product-description\\product-description.component.css",
+  "SelectedNode": "\\src\\assets\\album.json",
   "PreviewInSolutionExplorer": false
 }
