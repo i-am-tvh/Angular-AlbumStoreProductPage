@@ -5,9 +5,7 @@
     "\\src\\app",
     "\\src\\app\\product-description",
     "\\src\\app\\product-page",
-    "\\src\\assets",
-    "\\src\\spec\\part3"
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\assets\\album.json",
   "PreviewInSolutionExplorer": false
 }
