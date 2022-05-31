@@ -3,11 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\product-description",
     "\\src\\app\\product-list",
-    "\\src\\app\\product-page",
-    "\\src\\app\\product-tracklisting",
     "\\src\\assets"
   ],
+  "SelectedNode": "\\src\\app\\app.component.html",
   "PreviewInSolutionExplorer": false
 }
